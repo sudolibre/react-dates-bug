@@ -7,9 +7,13 @@
     "@types/node": "12.6.8",
     "@types/react": "16.8.23",
     "@types/react-dom": "16.8.5",
+    "match-sorter": "latest",
+    "moment": "latest",
     "react": "^16.8.6",
+    "react-dates": "latest",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
+    "react-table": "latest",
     "typescript": "3.5.3"
   },
   "scripts": {
@@ -32,5 +36,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/match-sorter": "^2.3.0",
+    "@types/react-dates": "^17.1.5",
+    "@types/react-table": "^6.8.5"
   }
 }
